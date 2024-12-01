@@ -10,9 +10,29 @@
 
 ## 📊 GitHub Stats
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Margret-Jaison&count_private=true&show_icons=true&theme=react)
 
 ---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Margret-Jaison">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Margret-Jaison&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Margret-Jaison&show_icons=true&locale=en&layout=compact" alt="Margret-Jaison" width="500" height="200">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Margret-Jaison">
+ 
+ 
+ <img src="https://komarev.com/ghpvc/?username=Margret-Jaison&label=Profile%20views&color=0e75b6&style=flat" alt="Margret-Jaison" /> 
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMargret-Jaison1212%2Fhit-counter">
+ </p>
+
+
+
+---
+
+
+
 
 ## 🔥 Contribution Streaks
 
@@ -40,7 +60,7 @@
 ## 🧑‍💻 About Me:
 - I'm passionate about integrating new **open-source** contributions to the **RDK** platform and enhancing development pipelines.
 - I contribute to building, testing, and releasing stable RDK Versions.
-- Currently, I'm focused on **Yocto builds**, **Gerrit reviews**, and **continuous integration with Jenkins**.
+- Currently, I'm focused on **Yocto builds**, **Gerrit reviews**, and **Learning Web development**.
 
 ---
 
