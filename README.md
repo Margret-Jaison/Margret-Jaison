@@ -1,4 +1,4 @@
-# Hey, I'm [Margret Jaison] 🙋🏻‍♀️
+# Hey, I'm Margret Jaison 🙋🏻‍♀️
 
 ## I'm an RDK Upstream Developer, Passionate about Open Source! 💻
 
@@ -44,13 +44,7 @@
 
 ---
 
-## 🌟 Repository Stats:
-- **Total Repos**: ![Total Repos](https://img.shields.io/github/followers/Margret-Jaison?style=flat&logo=github&label=Repositories)
-- **Total Commits**: ![Commits](https://img.shields.io/github/commit-activity/m/Margret-Jaison?style=flat)
-- **Stars on Repos**: ![Stars](https://img.shields.io/github/stars/Margret-Jaison?style=social)
-- **Forks**: ![Forks](https://img.shields.io/github/forks/Margret-Jaison?style=social)
 
----
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/margret-jaison)
