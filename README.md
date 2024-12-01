@@ -59,7 +59,7 @@
 
 ## 🧑‍💻 About Me:
 - I'm passionate about integrating new **open-source** contributions to the **RDK** platform and enhancing development pipelines.
-- I contribute to building, testing, and releasing stable RDK Versions.
+- I contribute to building stable RDK next builds and verifying the new open source changes.
 - Currently, I'm focused on **Yocto builds**, **Gerrit reviews**, and **Learning Web development**.
 
 ---
