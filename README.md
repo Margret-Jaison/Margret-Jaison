@@ -33,13 +33,6 @@
 
 
 
-
-## 🔥 Contribution Streaks
-
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Margret-Jaison&theme=react)
-
----
-
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Margret-jaison&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
