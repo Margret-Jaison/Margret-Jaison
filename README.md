@@ -3,10 +3,19 @@
 ## I'm an RDK Upstream Developer, Passionate about Open Source! 💻
 
 ### 🌱 Current Focus:
-- **RDK Upstreaming**: Integrating open-source RDK changes to the build environment.
-- **Tech Stack**: C++, Linux, Yocto, Git, Jenkins, Gerrit, RDK-V, and more...
+--**Web Development**: Creating dynamic web applications using modern technologies.
 
----
+--**RDK Upstreaming**: Integrating open-source RDK changes to the build environment.
+
+--**Developing Firebolt APIs**: Contributing to Firebolt API development for next-gen applications using Node.js.
+
+--**Linux & Set-Top Box Development**: Working on embedded Linux and set-top box software.
+
+--**Sanity Testing**: Performing and automating sanity tests to ensure software stability.
+
+--**Actively Participating in RDK Community**: Currently focusing on Node.js for Firebolt API development.
+
+--**Tech Stack**: Linux, C++, HTML, CSS, JavaScript, Node.js, Express.js, Git, Yocto, Jenkins, Gerrit, RDK-V, and more...
 
 ## 📊 GitHub Stats
 
@@ -40,13 +49,19 @@
 ---
 
 ## 💻 Languages and Tools:
-[![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=cplusplus)](https://www.cprogramming.com)
-[![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.kernel.org)
-[![Yocto](https://img.shields.io/badge/Yocto-black?style=flat&logo=yocto)](https://www.yoctoproject.org)
-[![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)](https://git-scm.com)
-[![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins)](https://www.jenkins.io)
-[![Gerrit](https://img.shields.io/badge/Gerrit-black?style=flat&logo=gerrit)](https://www.gerritcodereview.com)
-[![RDK-V](https://img.shields.io/badge/RDK%2DV-black?style=flat&logo=rdk)](https://www.rdkcentral.com)
+[![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.kernel.org)  
+[![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=c%2B%2B)](https://www.cprogramming.com)  
+[![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)  
+[![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)](https://expressjs.com/)  
+[![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)](https://git-scm.com)  
+[![Yocto](https://img.shields.io/badge/Yocto-black?style=flat&logo=yocto)](https://www.yoctoproject.org)  
+[![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins)](https://www.jenkins.io)  
+[![Gerrit](https://img.shields.io/badge/Gerrit-black?style=flat&logo=gerrit)](https://www.gerritcodereview.com)  
+[![RDK-V](https://img.shields.io/badge/RDK%2DV-black?style=flat&logo=rdk)](https://www.rdkcentral.com)  
+
 
 ---
 
