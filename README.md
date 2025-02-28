@@ -69,9 +69,7 @@
 ---
 
 ## 🧑‍💻 About Me:
-- I'm passionate about integrating new **open-source** contributions to the **RDK** platform and enhancing development pipelines.
-- I contribute to building stable RDK next builds and verifying the new open source changes.
-- Currently, I'm focused on **Yocto builds**, **Gerrit reviews**, and **Learning Web development**.
+I am a **Web Developer & RDK Upstream Engineer** with a strong background in backend development and embedded systems. Passionate about building robust and scalable web applications, I also specialize in integrating open-source contributions into the RDK platform. My expertise lies in ** Node.js, C++, Linux, Yocto, Git, and Gerrit.** I am dedicated to learning new technologies and actively contributing to open-source projects.
 
 ---
 
