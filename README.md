@@ -1,6 +1,6 @@
 # Hey, I'm Margret Jaison 🙋🏻‍♀️
 
-## I'm an RDK Upstream Developer, Passionate about Open Source! 💻
+## I'm a Backend Web Developer & RDK Upstream Engineer! 💻🌟 
 
 ### 🌱 Current Focus:
 --**Web Development**: Creating dynamic web applications using modern technologies.
@@ -49,18 +49,21 @@
 ---
 
 ## 💻 Languages and Tools:
-[![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.kernel.org)  
-[![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=c%2B%2B)](https://www.cprogramming.com)  
-[![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)  
-[![Express.js](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)](https://expressjs.com/)  
-[![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)](https://git-scm.com)  
-[![Yocto](https://img.shields.io/badge/Yocto-black?style=flat&logo=yocto)](https://www.yoctoproject.org)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins)](https://www.jenkins.io)  
-[![Gerrit](https://img.shields.io/badge/Gerrit-black?style=flat&logo=gerrit)](https://www.gerritcodereview.com)  
-[![RDK-V](https://img.shields.io/badge/RDK%2DV-black?style=flat&logo=rdk)](https://www.rdkcentral.com)  
+<p align="center">
+  <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"></a>
+  <a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=c%2B%2B"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express"></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"></a>
+  <a href="https://www.yoctoproject.org"><img src="https://img.shields.io/badge/Yocto-black?style=flat&logo=yocto"></a>
+  <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins"></a>
+  <a href="https://www.gerritcodereview.com"><img src="https://img.shields.io/badge/Gerrit-black?style=flat&logo=gerrit"></a>
+  <a href="https://www.rdkcentral.com"><img src="https://img.shields.io/badge/RDK%2DV-black?style=flat&logo=rdk"></a>
+</p>
+
 
 
 ---
